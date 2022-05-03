@@ -25,7 +25,7 @@ Front-end developer and designer
 </p>
 
 ### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anti-fe&repo=github-readme-stats)](https://github.com/anti-fe/Groot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anti-fe&repo=github-readme-stats)](https://github.com/anti-fe/Groot.git)
 
 
 ### Socials

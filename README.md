@@ -6,7 +6,7 @@ Front-end developer and designer
 --------------------------------
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [Behance](http://www.behance.net/raylyangosb7c3)
+* 🖥️  See my designer portfolio at [Behance](http://www.behance.net/raylyangosb7c3) and frontend developer portfolio in pinned pins below :)
 * ✉️  You can contact me at [raylyangosha@gmail.com](mailto:raylyangosha@gmail.com )
 * 🧠  I'm learning React
 
